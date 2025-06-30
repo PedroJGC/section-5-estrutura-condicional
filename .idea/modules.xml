@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-estrutura_condicional/03-exercicio/03-exercicio.iml" filepath="$PROJECT_DIR$/02-estrutura_condicional/03-exercicio/03-exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-switch_case/03-switch_case.iml" filepath="$PROJECT_DIR$/03-switch_case/03-switch_case.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-estrutura_condicional/04-exercicio/04-exercicio.iml" filepath="$PROJECT_DIR$/02-estrutura_condicional/04-exercicio/04-exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-ternary_conditional/04-ternary_conditional.iml" filepath="$PROJECT_DIR$/04-ternary_conditional/04-ternary_conditional.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-estrutura_condicional/05-exercicio/05-exercicio.iml" filepath="$PROJECT_DIR$/02-estrutura_condicional/05-exercicio/05-exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/section-5-estrutura-condicional.iml" filepath="$PROJECT_DIR$/section-5-estrutura-condicional.iml" />
     </modules>
